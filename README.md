@@ -1,2 +1,2 @@
-# free-course-colection
+# Web free-course-colection
 <a href="https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm">Introdução a Javascript</a>
