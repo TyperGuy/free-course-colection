@@ -3,6 +3,8 @@
 <a href="https://www.udemy.com/course/git-para-iniciantes/">Git Para iniciantes</a></br>
 <a href="https://www.udemy.com/course/sass-placeholders-o-jeito-certo//">Sass placeholders: o jeito certo</a></br>
 <a href="https://www.youtube.com/watch?v=ipHuSfOYhwA&list=PLInBAd9OZCzxl38aAYdyoMHVg0xCgxrRx">Javascript Essencial</a></br>
+<a href="https://www.youtube.com/watch?v=xnWtGNiG2lg&list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G">Javascript Para Iniciantes</a></br>
+
 
 
 
