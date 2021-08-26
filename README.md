@@ -13,10 +13,11 @@
 
 <h1>Inglês</h1>
 <a href="https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0">Introdução a Javascript</a></br>
-<a href="https://www.udemy.com/course/git-expert-4-hours/">Seja um pro em Git e GitHub em 4 Horas</a></br>
 
 
 <hr/>
 
 <h1>Versionamento</h1>
+<a href="https://www.udemy.com/course/git-expert-4-hours/">Seja um pro em Git e GitHub em 4 Horas</a></br>
+
 
