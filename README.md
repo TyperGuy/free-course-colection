@@ -15,8 +15,6 @@
 <hr/>
 
 
-
-<h1>Inglês</h1>
 <a href="https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0">Introdução a Javascript</a></br>
 
 <a href="https://www.udemy.com/course/sass-placeholders-o-jeito-certo//">Sass placeholders: o jeito certo</a></br>
