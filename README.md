@@ -8,6 +8,7 @@
 | Titulo do Curso | Descrição do Curso | Link de acesso ao Curso | Plataforma |
 | --- | --- | --- | --- |
 | Introdução a Javascript | Primeiros passos | <a href="https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm">Clique aqui</a> | Youtube |
+| Introdução a Javascript | Primeiros passos | <a href="https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm">Clique aqui</a> | Youtube |
 
 <h2>Intermediário</h2>
 <h2>Avançado</h2>
