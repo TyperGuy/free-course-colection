@@ -5,7 +5,7 @@
 
 
 
-| Titulo do Curso | Descrição do Curso | Link de acesso ao Curso | Plataforma | Linguagem |
+| Titulo do Curso | Descrição do Curso | Link de acesso ao Curso | Plataforma | Idioma |
 | --- | --- | --- | --- | --- |
 | Introdução a Javascript | Primeiros passos | <a href="https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm">Clique aqui</a> | Youtube | :brazil: | 
 | Javascript Essencial | Primeiros passos | <a href="https://www.youtube.com/watch?v=ipHuSfOYhwA&list=PLInBAd9OZCzxl38aAYdyoMHVg0xCgxrRx">Clique aqui</a> | Youtube | :brazil: |
