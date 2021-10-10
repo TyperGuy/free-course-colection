@@ -6,7 +6,7 @@
 <a href="https://www.youtube.com/watch?v=xnWtGNiG2lg&list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G">Javascript Para Iniciantes</a></br>
 
 | itulo do Curso | descrição | Link do Curso | Plataforma |
-| --- | --- |
+| --- | --- | --- | --- |
 
 <h2>Intermediário</h2>
 <h2>Avançado</h2>
