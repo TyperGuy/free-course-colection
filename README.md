@@ -5,6 +5,7 @@
 <a href="https://www.youtube.com/watch?v=ipHuSfOYhwA&list=PLInBAd9OZCzxl38aAYdyoMHVg0xCgxrRx">Javascript Essencial</a></br>
 <a href="https://www.youtube.com/watch?v=xnWtGNiG2lg&list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G">Javascript Para Iniciantes</a></br>
 
+|Comando|descrição|
 
 <h2>Intermediário</h2>
 <h2>Avançado</h2>
