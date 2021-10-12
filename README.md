@@ -12,6 +12,8 @@
 | Javascript Para Iniciantes | Primeiros passos | <a href="https://www.youtube.com/watch?v=xnWtGNiG2lg&list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G">Clique aqui</a> | Youtube | :brazil: |
 
 <h2>Intermediário</h2>
+| Titulo do Curso | Descrição do Curso | Link de acesso ao Curso | Plataforma | Idioma |
+| --- | --- | --- | --- | --- |
 | Sass placeholders: o jeito certos | Introdução ao pré processador Sass | 
 <a href="https://www.udemy.com/course/sass-placeholders-o-jeito-certo//">Clique aqui</a></br> | Youtube | :us: |
 <h2>Avançado</h2>
