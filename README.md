@@ -23,7 +23,6 @@
 
 
 
-<hr/>
 
 <h2>Versionamento</h2>
 <a href="https://www.udemy.com/course/git-expert-4-hours/">Seja um pro em Git e GitHub em 4 Horas</a></br>
