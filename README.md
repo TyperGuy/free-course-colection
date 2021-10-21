@@ -19,7 +19,7 @@
 | --- | --- | --- | --- | --- |
 | Sass placeholders: o jeito certos | Introdução ao pré processador Sass | <a href="https://www.udemy.com/course/sass-placeholders-o-jeito-certo//">Clique aqui</a> | UDEMY | :us: |
 <h2>Avançado</h2>
-<hr/>
+
 
 
 
