@@ -30,5 +30,6 @@
 | --- | --- | --- | --- | --- |
 | Seja um pro em Git e GitHub em 4 Horas | Uma introdução completa ao Git e Github | <a href="https://www.udemy.com/course/git-expert-4-hours/">Clique aqui</a> | UDEMY | 🇧🇷 |
 | Git Para iniciantes | Primeiros Passos com o git | <a href="https://www.udemy.com/course/git-para-iniciantes/">Clique aqui</a> | UDEMY | 🇧🇷 |
+| Git Para iniciantes | Primeiros Passos com o git | <a href=https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA>Clique aqui</a> | UDEMY | 🇧🇷 |
 
 
