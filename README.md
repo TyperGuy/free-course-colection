@@ -28,8 +28,8 @@
 
 | Titulo do Curso | Descrição do Curso | Link de acesso ao Curso | Plataforma | Idioma |
 | --- | --- | --- | --- | --- |
-| Sass placeholders: o jeito certo | Introdução ao pré processador Sass | <a href="https://www.udemy.com/course/sass-placeholders-o-jeito-certo//">Clique aqui</a> | UDEMY | :us: |
-<a href="https://www.udemy.com/course/git-expert-4-hours/">Seja um pro em Git e GitHub em 4 Horas</a></br>
+| Seja um pro em Git e GitHub em 4 Horas | Uma introdução completa oa Git e Github | <a href="https://www.udemy.com/course/git-expert-4-hours/">Clique aqui</a> | UDEMY | 🇧🇷 |
+
 <a href="https://www.udemy.com/course/git-para-iniciantes/">Git Para iniciantes</a></br>
 
 
