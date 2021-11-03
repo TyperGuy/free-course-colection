@@ -1,5 +1,5 @@
 <img src ="assets/images/Banner1.png"/>
-<h2>Iniciante</h2>
+## Iniciante 
 
 
 
@@ -11,21 +11,20 @@
 | Introdução a Javascript | Primeiros passos | <a href="https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0">Clique aqui</a>| Havard Learning | 🇺🇸 |
 | Javascript Para Iniciantes | Primeiros passos | <a href="https://www.youtube.com/watch?v=xnWtGNiG2lg&list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G">Clique aqui</a> | Youtube | :brazil: |
 
-<h2>Intermediário</h2>
+## Intermediário
 
 
 
 | Titulo do Curso | Descrição do Curso | Link de acesso ao Curso | Plataforma | Idioma |
 | --- | --- | --- | --- | --- |
 | Sass placeholders: o jeito certo | Introdução ao pré processador Sass | <a href="https://www.udemy.com/course/sass-placeholders-o-jeito-certo//">Clique aqui</a> | UDEMY | :us: |
-<h2>Avançado</h2>
+## Avançado
 
 
 
 
 
-<h2>Versionamento</h2>
-
+## Versionamento 
 | Titulo do Curso | Descrição do Curso | Link de acesso ao Curso | Plataforma | Idioma |
 | --- | --- | --- | --- | --- |
 | Seja um pro em Git e GitHub em 4 Horas | Uma introdução completa ao Git e Github | <a href="https://www.udemy.com/course/git-expert-4-hours/">Clique aqui</a> | UDEMY | 🇧🇷 |
@@ -38,4 +37,9 @@ Inspirado por <a href="https://github.com/iuricode/recursos-gratuitos">Recursos 
 Criado por <a href="https://github.com/TyperGuy">RJ Tony</a>  🇦🇴 4 de Setembro de 2021
 
 
+## ⚖ Licença
 
+Este projeto está licenciado. Abra o arquivo [LICENSE](LICENSE) para mais detalhes.<br>
+
+
+<br>[⬆ Voltar ao índice](#Iniciante)<br>
