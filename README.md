@@ -12,7 +12,7 @@
 | Introdução a Javascript | Primeiros passos | <a href="https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0">Clique aqui</a>| Havard Learning | 🇺🇸 |
 | Javascript Para Iniciantes | Primeiros passos | <a href="https://www.youtube.com/watch?v=xnWtGNiG2lg&list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G">Clique aqui</a> | Youtube | :brazil: |
 
-## Intermediário
+## 🧑🏽‍🦱 Intermediário
 
 
 
