@@ -32,4 +32,9 @@
 | Git Para iniciantes | Primeiros Passos com o git | <a href="https://www.udemy.com/course/git-para-iniciantes/">Clique aqui</a> | UDEMY | 🇧🇷 |
 | Curso de Git e GitHub | Introdução ao git e GitHub | <a href="https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA">Clique aqui</a> | Youtube | 🇧🇷 |
 
+## Créditos 
+
+Criado por <a href="https://github.com/TyperGuy">RJ Tony</a>  🇦🇴 4 de Setembro de 2021
+
+
 
