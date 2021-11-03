@@ -25,14 +25,14 @@
 
 
 
-## Versionamento 
+## 🦬 Versionamento 
 | Titulo do Curso | Descrição do Curso | Link de acesso ao Curso | Plataforma | Idioma |
 | --- | --- | --- | --- | --- |
 | Seja um pro em Git e GitHub em 4 Horas | Uma introdução completa ao Git e Github | <a href="https://www.udemy.com/course/git-expert-4-hours/">Clique aqui</a> | UDEMY | 🇧🇷 |
 | Git Para iniciantes | Primeiros Passos com o git | <a href="https://www.udemy.com/course/git-para-iniciantes/">Clique aqui</a> | UDEMY | 🇧🇷 |
 | Curso de Git e GitHub | Introdução ao git e GitHub | <a href="https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA">Clique aqui</a> | Youtube | 🇧🇷 |
 
-## Créditos 
+## 📜 Créditos 
 
 Inspirado por <a href="https://github.com/iuricode/recursos-gratuitos">Recursos Gratuitos</a>  e  <a href="https://github.com/TyperGuy/free-courses">Free IT Courses</a><br/>
 Criado por <a href="https://github.com/TyperGuy">RJ Tony</a>  🇦🇴 4 de Setembro de 2021
