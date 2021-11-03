@@ -43,4 +43,4 @@ Criado por <a href="https://github.com/TyperGuy">RJ Tony</a>  🇦🇴 4 de Sete
 Este projeto está licenciado. Abra o arquivo [LICENSE](LICENSE.md) para mais detalhes.<br>
 
 
-<br>[⬆ Voltar ao ínicio](# 👶🏽 Iniciante )<br>
+<br>[⬆ Voltar ao ínicio](#🏽Iniciante )<br>
