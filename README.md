@@ -40,7 +40,7 @@ Criado por <a href="https://github.com/TyperGuy">RJ Tony</a>  🇦🇴 4 de Sete
 
 ## ⚖ Licença
 
-Este projeto está licenciado. Abra o arquivo [LICENSE](LICENSE) para mais detalhes.<br>
+Este projeto está licenciado. Abra o arquivo [LICENSE](LICENSE.md) para mais detalhes.<br>
 
 
 <br>[⬆ Voltar ao ínicio](#Iniciante)<br>
