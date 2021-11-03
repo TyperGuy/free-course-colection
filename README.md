@@ -34,7 +34,7 @@
 
 ## Créditos 
 
-Inspirado por <a href="https://github.com/iuricode/recursos-gratuitos">Recursos Gratuitos</a> <br/>
+Inspirado por <a href="https://github.com/iuricode/recursos-gratuitos">Recursos Gratuitos</a>  e  <a href="https://github.com/TyperGuy/free-courses">Free IT Courses</a><br/>
 Criado por <a href="https://github.com/TyperGuy">RJ Tony</a>  🇦🇴 4 de Setembro de 2021
 
 
