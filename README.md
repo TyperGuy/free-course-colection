@@ -25,7 +25,7 @@
 
 
 
-## 🦬 Versionamento 
+## Versionamento 
 | Titulo do Curso | Tópicos | Link de acesso ao Curso | Plataforma | Idioma |
 | --- | --- | --- | --- | --- |
 | Seja um pro em Git e GitHub em 4 Horas | Uma introdução completa ao Git e Github | <a href="https://www.udemy.com/course/git-expert-4-hours/">Clique aqui</a> | UDEMY | 🇧🇷 |
