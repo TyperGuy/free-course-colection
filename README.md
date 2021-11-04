@@ -16,7 +16,7 @@
 
 
 
-| Titulo do Curso | Descrição do Curso | Link de acesso ao Curso | Plataforma | Idioma |
+| Titulo do Curso | Tópicos | Link de acesso ao Curso | Plataforma | Idioma |
 | --- | --- | --- | --- | --- |
 | Sass placeholders: o jeito certo | Introdução ao pré processador Sass | <a href="https://www.udemy.com/course/sass-placeholders-o-jeito-certo//">Clique aqui</a> | UDEMY | :us: |
 ## 👨🏽‍🦱 Avançado
@@ -26,7 +26,7 @@
 
 
 ## 🦬 Versionamento 
-| Titulo do Curso | Descrição do Curso | Link de acesso ao Curso | Plataforma | Idioma |
+| Titulo do Curso | Tópicos | Link de acesso ao Curso | Plataforma | Idioma |
 | --- | --- | --- | --- | --- |
 | Seja um pro em Git e GitHub em 4 Horas | Uma introdução completa ao Git e Github | <a href="https://www.udemy.com/course/git-expert-4-hours/">Clique aqui</a> | UDEMY | 🇧🇷 |
 | Git Para iniciantes | Primeiros Passos com o git | <a href="https://www.udemy.com/course/git-para-iniciantes/">Clique aqui</a> | UDEMY | 🇧🇷 |
