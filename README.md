@@ -40,6 +40,22 @@ Inspirado por <a href="https://github.com/iuricode/recursos-gratuitos">Recursos 
 Criado por <a href="https://www.linkedin.com/in/rjtony/">RJ Tony</a>  🇦🇴  2021
 
 
+## :busts_in_silhouette: Colaboradores
+
+Muito obrigado, vocês fazem uma diferença enorme na vida de pelo menos um estudante de <b>  programação! </b>
+
+
+
+
+
+<a style="margin: 0 5px 0;" href="https://github.com/TyperGuy">
+<img width="100px" src="https://avatars.githubusercontent.com/u/60783000?v=4">
+</a>
+
+
+
+
+
 ## ⚖ Licença
 
 Este projeto está licenciado. Abra o arquivo [LICENSE](LICENSE.md) para mais detalhes.<br>
