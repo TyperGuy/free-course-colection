@@ -41,7 +41,8 @@ Para manter um padrão geral em todos os links, você deve:
 - Adicionar um link direto para o download do conteudo
 - Adicionar um título condizente ao título do conteúdo
 - Adicionar uma bandeira (ex. Brasil, Portugal ou EUA) para simbolizar o idioma do livro
-- Adivonar a editora e o ano de lançamento
+- Adivonar os topicos mais relevantes do conteudo
+- Adicionar a plataforma que oferece o conteudo
 
 ## Como fazer os commits
 
