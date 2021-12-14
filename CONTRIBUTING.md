@@ -1,5 +1,4 @@
-
-<img style =" align:center; width:100%;" src ="assets/images/banner.jpg"/>
+<img style="width:100%;" src ="assets/images/Banner1.png"/>
 
 # Ficamos muito felizes que queira se juntar a este projecto
 
