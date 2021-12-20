@@ -14,10 +14,9 @@
 | Curso de HTML & CSS | Curso com conceitos básicos de HTML & CSS | <a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G">Clique aqui</a> | Youtube | 🇺🇸 |
 | Javascript antes do React | Variáveis,statements,functions,assync,ECMAS6,DOM,CSS on JS | <a href="https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt">Clique aqui</a> | Youtube | 🇧🇷 |
 | Curso de HTML & CSS | Curso com conceitos básicos de HTML & CSS | <a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G">Clique aqui</a> | Youtube |🇧🇷 |
-| Javascript antes do React | Variáveis,statements,functions,assync,ECMAS6,DOM,CSS on JS | <a href="https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt">Clique aqui</a> | Youtube | 🇧🇷 |
-| Curso de HTML & CSS | Curso com conceitos básicos de HTML & CSS | <a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G">Clique aqui</a> | Youtube |🇧🇷 |
+| Curso de HTML & CSS | Curso com conceitos básicos de HTML & CSS | <a href="https://www.youtube.com/watch?v=O76ZfAIEukE&list=PLGPYJFbQt4KQSo58W7edfsGwJzsLQ5ADS">Clique aqui</a> | Youtube |🇧🇷 |
 
-https://www.youtube.com/watch?v=O76ZfAIEukE&list=PLGPYJFbQt4KQSo58W7edfsGwJzsLQ5ADS
+
 
 
 ## 🧑🏽‍🦱 Intermediário
