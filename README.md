@@ -54,7 +54,7 @@ Muito obrigado, vocês fazem uma diferença enorme na vida de pelo menos um estu
     <img width="100px" src="https://avatars.githubusercontent.com/u/60783000?v=4">
   </a>
   <a style="margin: 0 5px 0;" href="https://github.com/EufranioDiogo">
-    <img width="100px" src="https://avatars.githubusercontent.com/u/62727833?v=4">
+    <img style="width:100px; border-raidus:50px;" src="https://avatars.githubusercontent.com/u/62727833?v=4">
   </a>
 
 </div>
