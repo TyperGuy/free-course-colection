@@ -26,6 +26,7 @@
 | --- | --- | --- | --- | --- |
 | Sass placeholders: o jeito certo | Introdução ao pré processador Sass | <a href="https://www.udemy.com/course/sass-placeholders-o-jeito-certo//">Clique aqui</a> | UDEMY | 🇺🇸 |
 | Framer Motion (for React) | Introdução ao Framer Motion Web com Reactjs | <a href="https://www.youtube.com/watch?v=2V1WK-3HQNk&list=PL4cUxeGkcC9iHDnQfTHEVVceOEBsOf07i">Clique aqui</a> | Youtube | 🇺🇸 |
+| Framer Motion (for React) | Introdução ao Framer Motion Web com Reactjs | <a href="https://www.youtube.com/watch?v=2V1WK-3HQNk&list=PL4cUxeGkcC9iHDnQfTHEVVceOEBsOf07i">Clique aqui</a> | Youtube | 🇺🇸 |
 https://www.youtube.com/watch?v=sg1zFpNM5Jw
 
 ## 👨🏽‍🦱 Avançado
