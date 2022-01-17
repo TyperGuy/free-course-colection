@@ -12,6 +12,7 @@
 | Introdução a Javascript | Variáveis,statements,functions,ECMAS6,DOM,CSS on JS | <a href="https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0">Clique aqui</a>| Havard Learning | 🇺🇸 |
 | Javascript Para Iniciantes | Variáveis,statements,functions,ECMAS6,DOM,CSS on JS | <a href="https://www.youtube.com/watch?v=xnWtGNiG2lg&list=PLhSj3UTs2_yVC0iaCGf16glrrfXuiSd0G">Clique aqui</a> | Youtube | 🇧🇷 |
 | Curso de HTML & CSS | Curso com conceitos básicos de HTML & CSS | <a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G">Clique aqui</a> | Youtube | 🇺🇸 |
+| Curso de Redux & Redux com React | Redux, Redux & React, Reducers, Actions, ActionType, Async calls com Redux | <a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK">Clique aqui</a>| Youtube | 🇺🇸 |
 | Javascript antes do React | Variáveis,statements,functions,assync,ECMAS6,DOM,CSS on JS | <a href="https://www.youtube.com/watch?v=j6iSONAO6sQ&list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt">Clique aqui</a> | Youtube | 🇧🇷 |
 | Curso de HTML & CSS | Curso com conceitos básicos de HTML & CSS | <a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G">Clique aqui</a> | Youtube |🇧🇷 |
 | Começando aos 40 |Um guia completo para iniciantes em programação, cortesia do Fábio Akita, do Canal Akita on Rails | <a href="https://www.youtube.com/watch?v=O76ZfAIEukE&list=PLGPYJFbQt4KQSo58W7edfsGwJzsLQ5ADS">Clique aqui</a> | Youtube  | 🇧🇷|
